@@ -1,0 +1,7 @@
+# .gitignore
+*.log
+*.tmp
+node_modules/
+Vid_Com/
+__pycache__/
+
