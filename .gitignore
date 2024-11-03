@@ -4,3 +4,6 @@
 __pycache__/
 Vid_Com/*
 Output/*
+!Vid_Com/
+!Output/
+
